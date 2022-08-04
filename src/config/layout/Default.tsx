@@ -112,7 +112,7 @@ const LayoutDefault: React.FC<LayoutDefaultPros> = ({
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Lista de Mercado
+            Live Code ReactJS TS
           </Typography>
         </Toolbar>
       </AppBar>
